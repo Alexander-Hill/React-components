@@ -6,7 +6,7 @@ const AppSection = () => {
         <div class="bg-success text-center">
       <p class="display-4 text-white p-4">Discover the amazing new app</p>
       <p class="text-white">
-        This is an Example
+        Check out some of my Live Apps and games I have made!
       </p>
       <div class="row  p-4">
         <div class="col-6 text-right">

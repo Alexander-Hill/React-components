@@ -3,19 +3,21 @@ import React from 'react'
 
 
 const HeroSection = () => {
+ 
     return (
         <div className="jumbotron ">
-      <h1 className="display-4">Original background </h1>
+      <h1 className="display-4">Kiser A. Hill</h1>
       <p className="lead">
-        Add text here
+        B.S Analytics || Software Engineer
       </p>
       <hr className="my-4" />
       <p>
-       This could be a bottom of a card
+       Lets connect in a Digital World!
       </p>
       <a className="btn btn-success btn-lg" href="#" role="button"
-        >React is awesome</a
-      >
+        >click</a>
+        
+
     </div>
     );
 };
